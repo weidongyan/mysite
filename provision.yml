@@ -1,0 +1,8 @@
+---
+- import_playbook: basicSoftwareInstall.yml
+- import_playbook: sshd.yml
+#- import_playbook: route.yml
+#- import_playbook: dns.yml
+#- import_playbook: network.yml
+#- import_playbook: locale.yml
+#- import_playbook: oc-docker-setup.yml
